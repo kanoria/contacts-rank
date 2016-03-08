@@ -1,4 +1,4 @@
-# contacts-rank
+# Contacts Rank
 
 # Libraries used
 
